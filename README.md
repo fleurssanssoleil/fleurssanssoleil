@@ -1,4 +1,7 @@
 <div align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fleurssanssoleil/fleurssanssoleil/main/anime.gif" width="250" alt="Anime GIF">
+</div>
 
 
 # ୨୧ fleurssanssoleil
@@ -38,7 +41,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-181717?style=flat-square&logo=telegram&logoColor=ffb6d9)](https://t.me/razorbladekissssss)
 [![VK](https://img.shields.io/badge/VK-181717?style=flat-square&logo=vk&logoColor=ffb6d9)](https://vk.ru/fleurssanssoleil)
 
-✧･ﾟ: *✧･ﾟ:*
+✧･ﾟ: *✧･ﾟ:
 
 *спасибо♡*
 
